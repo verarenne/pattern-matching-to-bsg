@@ -12,9 +12,11 @@ Train BSG models/2. Collect and preprocess annotated data.ipynb in the original 
 Requirements:
 
 The following files from the BSG repository are required:
-  functions.py
-  augmentation.py
-  BSG_results/bsg_species.csv
+  1. functions.py
+     
+  2. augmentation.py
+     
+  3. BSG_results/bsg_species.csv
 
 
 
