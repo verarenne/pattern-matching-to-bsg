@@ -1,5 +1,5 @@
 # pattern-matching-to-bsg
-This repository provides a preprocessing step that extracts Pattern Matches from .CSV files outputted by the ARBIMON platform and converts the .CSV files full of Pattern Matching detections into a format compatible with the BSG model training pipeline, enabling direct model retraining without BSG portal annotation.
+This repository provides a preprocessing step that extracts Pattern Matching detections from .csv files exported by the ARBIMON platform and converts them into a format compatible with the BSG model training pipeline, enabling direct model retraining without annotation in the BSG portal.
 
 This repository provides a preprocessing notebook that converts Pattern Matching detections into a format compatible with the BSG_classifier_builder training pipeline: https://github.com/plauha/BSG_classifier_builder/tree/main/Train%20%20BSG%20models (Lauha et al., 2025).
 
