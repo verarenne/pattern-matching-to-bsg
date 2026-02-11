@@ -39,7 +39,7 @@ An example Pattern Matching output (pm-amazona) is included for testing.
         
         7. Download URL for the original recording
         
-These detections are converted into clipped training segments compatible with the BSG model training pipeline using the 'Collect and preprocess PAttern Matching data.ipynb', ( https://github.com/verarenne/pattern-matching-to-bsg/blob/main/Collect%20and%20preprocess%20Pattern%20Matching%20data.ipynb).
+These detections are converted into clipped training segments compatible with the BSG model training pipeline using the 'Collect and preprocess Pattern Matching data.ipynb', ( https://github.com/verarenne/pattern-matching-to-bsg/blob/main/Collect%20and%20preprocess%20Pattern%20Matching%20data.ipynb).
 
 
 
