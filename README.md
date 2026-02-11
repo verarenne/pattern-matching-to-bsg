@@ -8,7 +8,8 @@ This notebook replaces:
 Train BSG models/2. Collect and preprocess annotated data.ipynb in the original BSG repository (https://github.com/plauha/BSG_classifier_builder/tree/main/Train%20%20BSG%20models).
 
 
-Requirements
+
+Requirements:
 
 The following files from the BSG repository are required:
   functions.py
@@ -16,7 +17,8 @@ The following files from the BSG repository are required:
   BSG_results/bsg_species.csv
 
 
-How to use
+
+How to use:
 
   1. Clone the BSG repository.
   2. Replace the original step 2 notebook with this notebook (https://github.com/verarenne/pattern-matching-to-bsg/blob/main/Collect%20and%20preprocess%20Pattern%20Matching%20data.ipynb).
