@@ -9,6 +9,7 @@ Train BSG models/2. Collect and preprocess annotated data.ipynb in the original 
 
 
 Requirements
+
 The following files from the BSG repository are required:
   functions.py
   augmentation.py
@@ -16,6 +17,7 @@ The following files from the BSG repository are required:
 
 
 How to use
+
   1. Clone the BSG repository.
   2. Replace the original step 2 notebook with this notebook (https://github.com/verarenne/pattern-matching-to-bsg/blob/main/Collect%20and%20preprocess%20Pattern%20Matching%20data.ipynb).
   3. Ensure required files are in the same directory.
