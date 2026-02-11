@@ -9,11 +9,13 @@ Train BSG models/2. Collect and preprocess annotated data.ipynb
 
 in the original BSG repository (https://github.com/plauha/BSG_classifier_builder/tree/main/Train%20%20BSG%20models).
 
+
 Requirements
 The following files from the BSG repository are required:
   functions.py
   augmentation.py
   BSG_results/bsg_species.csv
+
 
 How to use
   1. Clone the BSG repository.
